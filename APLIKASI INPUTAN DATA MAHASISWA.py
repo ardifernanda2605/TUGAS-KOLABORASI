@@ -71,7 +71,9 @@ def Menu () :
         
 def Author():    
     os.system('cls');
-    print("Ardi Fernanda Tambunan, M.Wafiq Ardhana, Novta Destrian Safira")
+    print("Ardi Fernanda Tambunan")
+    print("M.Wafiq Ardhana")
+    print("Novta Destrian Safira")
     print("UNHAR")
     
 def tampil(): 
